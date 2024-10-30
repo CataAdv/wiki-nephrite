@@ -1,2 +1,2 @@
-# wiki-whitedays
-wiki of whitedays.eu
+# wiki-template
+wiki of template
